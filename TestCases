@@ -1,0 +1,9 @@
+Test Cases :
+1. Playing song which is available in playlist
+2. Playing a song not availabble in playlist
+3. Adding a new song to playlist
+4. song which is not in pattern
+5. length of song to be highest
+6. passing integer value as song name
+7. passing null value as song
+8. emplty playlist
